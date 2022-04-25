@@ -125,7 +125,7 @@ In the first test seen above, for instance, it says
 `this lab has a folder named my-repository`, followed by
 `AssertionError: no folder name "my-repository" was found`.
 
-This first test is looking specifically for a folder, `my-repository`, to exist
+This first test is looking specifically for a folder, `cdmy-repository`, to exist
 inside this lab's main directory (or "folder"). You probably have a theory on
 how to correct that test after seeing that error! We're going to use these
 tests to let us know when we're all done.
